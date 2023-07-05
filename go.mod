@@ -1,4 +1,4 @@
-module github.com/linkxzhou/http_bench
+module github.com/lx1036/http_bench
 
 go 1.16
 
